@@ -1,0 +1,11 @@
+Setting up and populating our own online (cloud based) data repository. That has APIs and bulk loading interfaces. We need to
+do this for three reasons.
+
+1. Caching data from databases that have low transactional activity will help offload server demand from city systems
+
+2. We can build multi-jurisdictional system that provides data from several local governments, Madison City, Madison County,
+   Athens, Decatur, Limestone County etc. 
+
+3. Controlling the importing of datasets we can build toward datasets that can be compared between the jurisdictions.
+
+I believe we have a tool that will help us do this. 
