@@ -1,0 +1,12 @@
+I think the SeeClickFix (locally HSVConnect) is a great app except... we need toi extend it so that a citizen can
+take a photo or report a problem by smart phone from any location in the metro area where the event it sent to a central 
+server that sorts out which jurisdicition owns the problem. And it need a broad set of catagories beyond just problems 
+traffic and vehicular road ways... Events may include other information that the citizens would like to layer on to maps 
+and have a dialog about.
+
+On the flip side, the application should be tied to and interface with workorder and task management systems such that 
+the public can see when an cetain problems or event are going to be address in mid-range and short range time frames. i.e. 
+crews are working on problem x and location y now, today, tomorrow next Monday... Making the Workorder and task management
+transparent has the added advantage of allowing other agencies, e.g. Huntsville Utilities to see paving schedules etc. 
+solving the age old problem of one group digging up pavement and resufacing only to have anothger agency come in a month later
+to dig up the same spot for a different reason. 
