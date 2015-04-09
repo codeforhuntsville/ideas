@@ -1,0 +1,12 @@
+There are examples of some really good parking apps in other cities. Low hanging fruit would be an app that identifies
+the free and paid lots, with a bit of transactional databasing these parking lot could have real-time or near real-time 
+capcity indicators so users have a good sense of which lots to drive to. 
+
+The more useful and harder application could identify empty space for on stree parking and even include a revervation 
+system within a short temporal window. But the hard nuts to crack are developing, specifing and building meter heads or 
+some sort of sensors that could be glued to the pavement. There are RFID sensors but they don't transmit that far... 
+making a meter head could be expensive. So there are some real engineering challenges here but worth trying to do. 
+
+The incentive for the city would be capture true real-time demand pricing. The city could be making money from this
+app. Unfortunatly the mayor will show resistance until hard a business plan, or proforma that showes the ROI, is
+presented. But we should be talking about this application as it would make us famous.
