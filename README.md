@@ -12,7 +12,9 @@ They have a lower learning curve than editing a git repo.
 
 For those who want to put a little pizazz in the way it looks here is a [guide](https://guides.github.com/features/mastering-markdown/) to GitHub's markdown (as apose to markup?) syntax
 
-## Projects: 
+## Candidate Projects: 
 * [Animal Control App](https://github.com/Code4Huntsville/projects_leader_board/issues/2)
-
-
+* [Big Picture Huntsville - Citizen Engagement App](https://github.com/Code4Huntsville/projects_leader_board/issues/3)
+* [Downtown parking finder and reservation system](https://github.com/Code4Huntsville/projects_leader_board/issues/4)
+* [SeeClickFix Extensions that coordinate road and utility workorder and task schedules metro-wide](https://github.com/Code4Huntsville/projects_leader_board/issues/4)
+* [Development of Data Respository with import and export APIs for app development, data discorvery and visualization](https://github.com/Code4Huntsville/projects_leader_board/issues/4)
