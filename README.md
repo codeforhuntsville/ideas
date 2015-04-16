@@ -5,7 +5,7 @@ This is the **Projects Leader Board** - place to list project ideas, and to help
 Perhaps following this [tutorial video](https://www.youtube.com/watch?v=KlrJVSJRUN4)
 or check out this example of how the [OpenOakland Brigade](https://github.com/openoakland/ideas) uses the issues section
 
-*_Advantages:_*
+**Advantages:**
 * There is an API
 * They have an iphone app
 * They have a lower learning curve than editing a git repo.
