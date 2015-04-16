@@ -3,11 +3,12 @@
 This is the **Projects Leader Board** - place to list project ideas, and to help refine the goals or functionality of proposed projects.
 
 Perhaps following this: [video](https://www.youtube.com/watch?v=KlrJVSJRUN4)
-or this: https://github.com/openoakland/ideas
+or check out this example of how the [OpenOakland](https://github.com/openoakland/ideas) uses the issues section
 
-We can discuss more at the meeting tonight, but github issues have a few advantages:
-
-They have an API
+Advantages:
+There is an API
 They have an iphone app
 They have a lower learning curve than editing a git repo.
+
+For those who want to put a little pizazz in the way it looks here is a [guide](https://guides.github.com/features/mastering-markdown/) to GitHub's markdown (as apose to markup?) syntax
 
