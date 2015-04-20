@@ -1,6 +1,6 @@
-# Projects Leader Board
+# Ideas - A Projects Leader Board
 
-This is the **Projects Leader Board** - place to list project ideas, and to help refine the goals or functionality of proposed projects.
+This is the **The Ideas Board** - place to list project ideas, and to help refine the goals or functionality of proposed projects.
 
 Perhaps following this [tutorial video](https://www.youtube.com/watch?v=KlrJVSJRUN4)
 or check out this example of how the [OpenOakland Brigade](https://github.com/openoakland/ideas) uses the issues section
