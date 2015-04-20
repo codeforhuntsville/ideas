@@ -2,15 +2,11 @@
 
 This is the **The Ideas Board** - place to list project ideas, and to help refine the goals or functionality of proposed projects.
 
-Perhaps following this [tutorial video](https://www.youtube.com/watch?v=KlrJVSJRUN4)
-or check out this example of how the [OpenOakland Brigade](https://github.com/openoakland/ideas) uses the issues section
+### [Click here to view and discuss ideas.](https://github.com/Code4Huntsville/ideas/issues)
 
-**Advantages:**
-* There is an API
-* They have an iphone app
-* They have a lower learning curve than editing a git repo.
+TODO: Github Issues for Ideas Documentation
 
-For those who want to put a little pizazz in the way it looks here is a [guide](https://guides.github.com/features/mastering-markdown/) to GitHub's markdown (as apose to markup?) syntax
+For those who want to put a little pizazz in the way it looks here is a [guide](https://guides.github.com/features/mastering-markdown/) to GitHub's markdown syntax
 
 ## Candidate Projects: 
 * [Animal Control App](https://github.com/Code4Huntsville/projects_leader_board/issues/2)
